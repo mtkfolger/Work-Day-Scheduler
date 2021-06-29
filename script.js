@@ -18,16 +18,16 @@ localStorage.setItem('input','')
 function saveLocal8(){
    var sibling = document.getElementById("save8").previousElementSibling.value;
   console.log(sibling)
-  localStorage.setItem(sibling, 'value')
-  window.localStorage.getItem('sibling')
+  localStorage.setItem('save8', sibling)
 }
+
 
 save8.addEventListener('click',saveLocal8)
 
 function saveLocal9(){
   var sibling = document.getElementById("save9").previousElementSibling.value;
   console.log(sibling)
-  localStorage.setItem(sibling, 'value')
+  localStorage.setItem('save9', sibling)
 }
 
 save9.addEventListener('click',saveLocal9)
@@ -35,7 +35,7 @@ save9.addEventListener('click',saveLocal9)
 function saveLocal10(){
   var sibling = document.getElementById("save10").previousElementSibling.value;
   console.log(sibling)
-  localStorage.setItem(sibling, 'value')
+  localStorage.setItem('save10', sibling)
 }
 
 save10.addEventListener('click',saveLocal10)
@@ -44,7 +44,7 @@ save10.addEventListener('click',saveLocal10)
 function saveLocal11(){
   var sibling = document.getElementById("save11").previousElementSibling.value;
   console.log(sibling)
-  localStorage.setItem(sibling, 'value')
+  localStorage.setItem('save11', sibling)
 }
 
 save11.addEventListener('click',saveLocal11)
@@ -53,7 +53,7 @@ save11.addEventListener('click',saveLocal11)
 function saveLocal12(){
   var sibling = document.getElementById("save12").previousElementSibling.value;
   console.log(sibling)
-  localStorage.setItem(sibling, 'value')
+  localStorage.setItem('save12', sibling)
 }
 
 save12.addEventListener('click',saveLocal12)
@@ -61,7 +61,7 @@ save12.addEventListener('click',saveLocal12)
 function saveLocal1(){
   var sibling = document.getElementById("save1").previousElementSibling.value;
   console.log(sibling)
-  localStorage.setItem(sibling, 'value')
+  localStorage.setItem('save1', sibling)
 }
 
 save1.addEventListener('click',saveLocal1)
@@ -70,7 +70,7 @@ save1.addEventListener('click',saveLocal1)
 function saveLocal2(){
   var sibling = document.getElementById("save2").previousElementSibling.value;
   console.log(sibling)
-  localStorage.setItem(sibling, 'value')
+  localStorage.setItem('save2', sibling)
 }
 
 save2.addEventListener('click',saveLocal2)
@@ -79,7 +79,7 @@ save2.addEventListener('click',saveLocal2)
 function saveLocal3(){
   var sibling = document.getElementById("save3").previousElementSibling.value;
   console.log(sibling)
-  localStorage.setItem(sibling, 'value')
+  localStorage.setItem('save3', sibling)
 }
 
 save3.addEventListener('click',saveLocal3)
@@ -88,7 +88,7 @@ save3.addEventListener('click',saveLocal3)
 function saveLocal4(){
   var sibling = document.getElementById("save4").previousElementSibling.value;
   console.log(sibling)
-  localStorage.setItem(sibling, 'value')
+  localStorage.setItem('save4', sibling)
 }
 
 save4.addEventListener('click',saveLocal4)
@@ -97,7 +97,7 @@ save4.addEventListener('click',saveLocal4)
 function saveLocal5(){
   var sibling = document.getElementById("save5").previousElementSibling.value;
   console.log(sibling)
-  localStorage.setItem(sibling, 'value')
+  localStorage.setItem('save5', sibling)
 }
 
 save5.addEventListener('click',saveLocal5)

@@ -19,7 +19,10 @@ function saveLocal8(){
    var sibling = document.getElementById("save8").previousElementSibling.value;
   console.log(sibling)
   localStorage.setItem('save8', sibling)
+  document.getElementById("input8").innerHTML = localStorage.getItem("save8");
 }
+
+
 
 
 save8.addEventListener('click',saveLocal8)

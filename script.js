@@ -10,6 +10,8 @@ function displayTime() {
 setInterval(displayTime, 1000);
 
 
+
+/*
 //set function that turns time blocks red after that time of day has passed
 if (displayTime.textContent !== document.getElementById('#timeblock8').valueOf) {
   h4.setAttribute('class', "list-group-item-danger")

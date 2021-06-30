@@ -139,3 +139,9 @@ document.getElementById('save5').addEventListener('click',saveLocal5);
   //else {
     //document.getElementById('timeblock8).setAttribute('class','form-control list-group-item-warning');
   //}
+
+
+  var currentTime = moment().format('hh:mm');
+
+  console.log(currentTime);
+

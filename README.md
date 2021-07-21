@@ -5,3 +5,4 @@ Here is a link to the deployed application: https://mtkfolger.github.io/Work-Day
 
 Here is a screen shot of the deployed application: ![Capture](https://user-images.githubusercontent.com/84151997/123891556-15f10100-d927-11eb-9d23-ef42dbdc9098.JPG)
 
+Languaged Used: HTML, CSS and JavaScript
